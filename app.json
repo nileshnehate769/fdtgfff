@@ -55,6 +55,11 @@
       }
     }
   ],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "heroku/python"
+  }],
   "formation": {
     "worker": {
       "quantity": 1,
@@ -62,3 +67,4 @@
     }
   }
 }
+© 2021 GitHub, Inc.

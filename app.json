@@ -62,8 +62,8 @@
   }],
   "formation": {
     "worker": {
-      "quantity": 5,
-      "size": "paid"
+      "quantity": 1,
+      "size": "Free"
     }
   }
 }
